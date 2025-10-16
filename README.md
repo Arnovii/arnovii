@@ -16,10 +16,8 @@
 I’m a Systems and Computer Engineering student from Universidad Tecnológica de Pereira, passionate about designing and building technological solutions that combine creativity, logic, and purpose.  Currently working as a Tech Lead and Product Owner at Wijex, leading full-stack projects from concept to deployment — integrating APIs, managing cloud infrastructures, and applying best software engineering practices.  
 <br>
 I’m especially interested in Artificial Intelligence, Data Science, and Software Architecture, where I can connect technology with social impact.  
-Driven by curiosity, guided by results, and always learning something new 🚀.
-<br>
-<br>
-> "Build, learn, repeat."  
+
+> "Build, learn, repeat. 🚀"  
 > — Curious mind, persistent builder, and future AI engineer.
 <br>
 
@@ -71,6 +69,8 @@ Driven by curiosity, guided by results, and always learning something new 🚀.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnovii&layout=compact&text_color=fff&bg_color=0D1117)
 
