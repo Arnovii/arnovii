@@ -83,5 +83,8 @@ Driven by curiosity, guided by results, and always learning something new 🚀.
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 7. BANNER FINAL -->
-<img src="https://github.com/Arnovii/arnovii/blob/main/assets/imgs/banner1.png" align="center" alt="header image">
+##
+<!-- <img src="https://github.com/Arnovii/arnovii/blob/main/assets/imgs/banner1.png" align="center" alt="header image"> -->
+<img src="https://github.com/Arnovii/arnovii/blob/main/assets/gifs/dinosaurLostInternetConnection.gif" align="center" alt="banner" width="100%" >
+
 
