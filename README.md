@@ -70,7 +70,7 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### Statistics
+#### 📊 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnovii&layout=compact&text_color=fff&bg_color=0D1117)
 
