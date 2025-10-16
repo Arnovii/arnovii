@@ -6,7 +6,7 @@
 <h1 align="center">Hey! I'm <a href="https://github.com/arnovii">Arnovi<a> <img src="https://github.com/Arnovii/arnovii/blob/main/assets/gifs/wave2.gif" width="40px"/></h1>
 
 <!--2. BANNER -->
-<img src="https://github.com/Arnovii/arnovii/blob/main/assets/gifs/js_banner.gif" align="center" alt="banner">
+<img src="https://github.com/Arnovii/arnovii/blob/main/assets/gifs/codingBanner.gif‎" align="center" alt="banner">
 
 
 
