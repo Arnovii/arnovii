@@ -17,8 +17,8 @@ I’m a Systems and Computer Engineering student from Universidad Tecnológica d
 <br>
 I’m especially interested in Artificial Intelligence, Data Science, and Software Architecture, where I can connect technology with social impact.  
 
-> "Build, learn, repeat. 🚀"  
-> — Curious mind, persistent builder, and future AI engineer.
+> "Build, learn, repeat."  
+> — Curious mind, persistent builder, and future AI engineer 🚀.
 <br>
 
 
