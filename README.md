@@ -24,5 +24,5 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnovii&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnovii&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnovii&layout=compact&text_color=fff&bg_color=0D1117)
 <img src="https://github.com/Arnovii/arnovii/blob/main/assets/imgs/banner1.png" align="center" alt="header image">
