@@ -20,7 +20,14 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 > "Build, learn, repeat."  
 > — Curious mind, persistent builder, and future AI engineer 🚀.
 <br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arnovi-antonio-jimenez-velasquez-bb6697283">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn Logo" width="30px" style="vertical-align: middle;" />
+    <span style="vertical-align: middle;">LinkedIn</span>
+  </a>
+</p>
 
+##
 
 
 **My Research Interest**
@@ -29,8 +36,6 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 * Software Architecture & Scalable Systems
 * Open-Source Collaboration
 * EdTech & Technological Innovation for Social Impact
-
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 5. TECHNOLOGIES -->
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>  ***Skills***  
