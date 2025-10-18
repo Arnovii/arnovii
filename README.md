@@ -21,7 +21,7 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 > — Curious mind, persistent builder, and future AI engineer 🚀.
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/arnovi-antonio-jimenez-velasquez-bb6697283">
+  <a href="https://www.linkedin.com/in/arnovi">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn Logo" width="30px" style="vertical-align: middle;" />
     <span style="vertical-align: middle;">LinkedIn</span>
   </a>
