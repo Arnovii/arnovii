@@ -20,12 +20,7 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 > "Build, learn, repeat."  
 > — Curious mind, persistent builder, and future AI engineer 🚀.
 <br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnovi">
-    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn Logo" width="30px" style="vertical-align: middle;" />
-    <span style="vertical-align: middle;">LinkedIn</span>
-  </a>
-</p>
+
 
 ##
 
@@ -78,10 +73,15 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6. CONTACT -->
 ## ✉ ***Contact me***
+
+
+<div align = "start">
+    
 [![Gmail:Arnovi Jimenez](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=arnovi.jimenez1@gmail.com)](mailto:arnovi.jimenez1@gmail.com)&nbsp;
+[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/https://www.linkedin.com/in/arnovi/)](www.linkedin.com/in/arnovi/)
 
-*  arnovi.jimenez1@gmail.com
 
+</div>
 
 
 
