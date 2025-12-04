@@ -13,7 +13,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 3. ABOUT ME -->
 ## <img src="https://github.com/Arnovii/arnovii/blob/main/assets/gifs/Coffee.gif" width="30px">  ***About me***
 
-I’m a Systems and Computer Engineering student from Universidad Tecnológica de Pereira, passionate about designing and building technological solutions that combine creativity, logic, and purpose.  Currently working as a Tech Lead and Product Owner at Wijex, leading full-stack projects from concept to deployment — integrating APIs, managing cloud infrastructures, and applying best software engineering practices.  
+I’m a Systems and Computer Engineering student from Universidad Tecnológica de Pereira, passionate about designing and building technological solutions that combine creativity, logic, and purpose.  Currently working as a Web Developer at Wijex, leading full-stack projects from concept to deployment — integrating APIs, managing cloud infrastructures, and applying best software engineering practices.  
 <br>
 I’m especially interested in Artificial Intelligence, Data Science, and Software Architecture, where I can connect technology with social impact.  
 
