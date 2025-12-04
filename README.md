@@ -78,7 +78,7 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 <div align = "start">
     
 [![Gmail:Arnovi Jimenez](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=arnovi.jimenez1@gmail.com)](mailto:arnovi.jimenez1@gmail.com)&nbsp;
-[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/https://www.linkedin.com/in/arnovi/)](www.linkedin.com/in/arnovi/)
+[![Linkedin: Johan Bohorquez](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/https://www.linkedin.com/in/arnovi/)](https://www.linkedin.com/in/arnovi/)
 
 
 </div>
