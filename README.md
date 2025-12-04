@@ -78,6 +78,8 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 6. CONTACT -->
 ## ✉ ***Contact me***
+[![Gmail:Arnovi Jimenez](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=arnovi.jimenez1@gmail.com)](mailto:arnovi.jimenez1@gmail.com)&nbsp;
+
 *  arnovi.jimenez1@gmail.com
 
 
