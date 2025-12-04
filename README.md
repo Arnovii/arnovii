@@ -19,7 +19,6 @@ I’m especially interested in Artificial Intelligence, Data Science, and Softwa
 
 > "Build, learn, repeat."  
 > — Curious mind, persistent builder, and future AI engineer 🚀.
-<br>
 
 
 ##
